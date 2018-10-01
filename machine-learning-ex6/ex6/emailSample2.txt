@@ -1,0 +1,9 @@
+This is Koustubh Sinhal from CV-Tricks.com. First of all, thank you for so much love on our last week's post on the Introduction of Object Detection using Deep Learning. This week, we will be learning the algorithm of Single Shot Multibox detectors(SSD). If you are looking to build a robust real-time object detector, SSD is one of the most popular choices.               
+
+   
+
+      This post is very different from our other blogs as it's theoretical in nature but in order to train a good detector using SSD, you need to have the intuition of the algorithm so that you can at least use the hyper-parameters effectively.  
+
+ 
+
+       To start reading now, click here: 
