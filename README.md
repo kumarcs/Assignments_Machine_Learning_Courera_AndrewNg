@@ -11,7 +11,7 @@ Clustering\
 Dimensionality Reduction\
 
 <h3 align="center">EX8</h3>
-**Anomaly Detection**
+<h3 ><b>Anomaly Detection </b></h3>
 **Movies Recommender System using collaborative filtering learning algorithm**
 -files used:- 
  1. estimateGuassian.m
