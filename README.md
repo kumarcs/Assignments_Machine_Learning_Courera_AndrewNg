@@ -12,8 +12,10 @@ Dimensionality Reduction\
 
 <h3 align="center">EX8</h3>
 <h3 ><b>Anomaly Detection </b></h3>
-**Movies Recommender System using collaborative filtering learning algorithm**
--files used:- 
- 1. estimateGuassian.m
- 2. selectThreshhold.m
- 3. cofiCostFunc.m
+<h3>Movies Recommender System using collaborative filtering learning algorithm</h3>
+<ul>
+ <h4>files used:-</h4> 
+ <li> estimateGuassian.m</li>
+ <li>selectThreshhold.m</li>
+ <li>cofiCostFunc.m</li>
+</ul>
