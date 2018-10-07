@@ -10,6 +10,10 @@ Support Vector Machine\
 Clustering\
 Dimensionality Reduction\
 
-EX8:-
+<h1 align="center">EX8</h1>
 Anomaly Detection\
-Recommender System\
+Movies Recommender System using collaborative filtering learning algorithm\
+files used:- 
+estimateGuassian.m
+selectThreshhold.m
+cofiCostFunc.m
