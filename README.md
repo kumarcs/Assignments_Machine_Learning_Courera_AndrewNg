@@ -9,5 +9,7 @@ Neural networks\
 Support Vector Machine\
 Clustering\
 Dimensionality Reduction\
+
+EX8:-
 Anomaly Detection\
 Recommender System\
